@@ -1,3 +1,8 @@
+
+.container{
+    box-shadow: 5px 5px 10px gray;
+    background-color: #ffff;
+}
 .header .col-md-8 img{
     width: 70px;
     height: auto;
